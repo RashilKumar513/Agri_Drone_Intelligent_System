@@ -1,0 +1,501 @@
+District,Taluk,Crop,Soil,Irrigation,AgriculturalArea,DroneZone,Latitude,Longitude
+Cuddalore,Neyveli,Millet,Red Soil,Tank,36233,Green,11.7089,79.5512
+Erode,Sathyamangalam,Paddy,Red Soil,Borewell,77719,Green,11.5250,77.2383
+Dindigul,Palani,Sugarcane,Red Loam,Tank,28638,Green,10.4500,77.5200
+Tiruchirappalli,Musiri,Cotton,Red Loam,Canal,85047,Outer Yellow,10.9500,78.4500
+Namakkal,Senthamangalam,Groundnut,Red Soil,Tank,73418,Green,11.2500,78.1700
+Madurai,Peraiyur,Paddy,Alluvial,Canal,80264,Inner Yellow,9.7500,77.8000
+Sivaganga,Devakottai,Turmeric,Red Soil,Canal,45540,Green,9.9500,78.8200
+Ramanathapuram,Paramakudi,Turmeric,Red Soil,Canal,54816,Green,9.5500,78.5800
+Theni,Bodinayakanur,Maize,Black Soil,Borewell,32506,Green,10.0200,77.3500
+Nagapattinam,Vedaranyam,Vegetables,Red Soil,Tank,21582,Green,10.3700,79.8500
+Villupuram,Sankarapuram,Millet,Red Loam,Canal,73178,Green,11.8300,78.9500
+Cuddalore,Kattumannarkoil,Paddy,Black Soil,Borewell,60118,Outer Yellow,11.3300,79.7300
+Madurai,Usilampatti,Cotton,Alluvial,Borewell,68191,Inner Yellow,9.9700,77.8000
+Krishnagiri,Hosur,Paddy,Alluvial,Borewell,39889,Outer Yellow,12.7200,77.8200
+Salem,Attur,Millet,Red Loam,Canal,29100,Green,11.6000,78.6000
+Cuddalore,Chidambaram,Groundnut,Alluvial,Canal,71249,Inner Yellow,11.4000,79.7000
+Thanjavur,Papanasam,Sugarcane,Red Loam,Tank,73627,Outer Yellow,10.9300,79.2700
+Thanjavur,Kumbakonam,Turmeric,Black Soil,Tank,53551,Green,10.9700,79.3800
+Theni,Uthamapalayam,Banana,Black Soil,Tank,80380,Green,9.8000,77.3300
+Madurai,Usilampatti,Vegetables,Red Loam,Tank,48329,Green,9.9700,77.8000
+Thanjavur,Orathanadu,Banana,Alluvial,Borewell,88033,Outer Yellow,10.6200,79.2700
+Chennai,Alandur,Urban,Urban,None,902,Red,13.0100,80.2000
+Chennai,Alandur,Urban,Urban,None,1036,Red,13.0100,80.2000
+Erode,Gobichettipalayam,Paddy,Red Soil,Canal,55957,Inner Yellow,11.4600,77.4500
+Dindigul,Nilakottai,Turmeric,Black Soil,Canal,56942,Outer Yellow,10.1700,77.8500
+Cuddalore,Neyveli,Maize,Red Loam,Canal,31825,Green,11.6100,79.4800
+Virudhunagar,Tiruchuli,Cotton,Red Loam,Borewell,86676,Green,9.5300,78.2300
+Chennai,Sholinganallur,Urban,Urban,None,1999,Red,12.9000,80.2200
+Namakkal,Kolli Hills,Vegetables,Black Soil,Canal,82161,Inner Yellow,11.2800,78.3300
+Ramanathapuram,Kadaladi,Banana,Alluvial,Canal,24447,Green,9.2800,78.5200
+Ramanathapuram,Paramakudi,Banana,Red Loam,Canal,80019,Green,9.5500,78.5800
+Coimbatore,Sulur,Coconut,Black Soil,Canal,81176,Green,11.0300,77.1300
+Villupuram,Kallakurichi,Banana,Alluvial,Tank,69774,Inner Yellow,11.7300,78.9700
+Krishnagiri,Pochampalli,Cotton,Red Loam,Tank,72373,Outer Yellow,12.3500,78.3700
+Ramanathapuram,Kadaladi,Groundnut,Red Loam,Canal,33850,Green,9.2800,78.5200
+Villupuram,Kallakurichi,Cotton,Red Loam,Tank,85458,Green,11.7300,78.9700
+Namakkal,Tiruchengode,Maize,Red Soil,Tank,75202,Green,11.3800,77.9000
+Theni,Uthamapalayam,Sugarcane,Black Soil,Canal,62820,Green,9.8000,77.3300
+Tiruchirappalli,Manapparai,Paddy,Red Soil,Tank,16853,Green,10.6200,78.4200
+Salem,Sankari,Vegetables,Black Soil,Tank,31150,Green,11.4800,77.8700
+Tirunelveli,Sankarankovil,Coconut,Red Loam,Borewell,16173,Green,9.1700,77.5300
+Vellore,Katpadi,Groundnut,Red Loam,Canal,87826,Green,12.9700,79.1300
+Krishnagiri,Uthangarai,Coconut,Red Loam,Canal,75513,Green,12.2700,78.5300
+Erode,Sathyamangalam,Maize,Alluvial,Tank,43372,Green,11.5250,77.2383
+Tiruchirappalli,Srirangam,Coconut,Red Loam,Tank,47997,Outer Yellow,10.8700,78.7000
+Dindigul,Nilakottai,Turmeric,Alluvial,Borewell,38180,Inner Yellow,10.1700,77.8500
+Thanjavur,Peravurani,Paddy,Red Soil,Canal,79552,Green,10.3000,79.1800
+Nagapattinam,Vedaranyam,Paddy,Red Loam,Borewell,69406,Inner Yellow,10.3700,79.8500
+Krishnagiri,Pochampalli,Paddy,Red Loam,Borewell,72370,Green,12.3500,78.3700
+Dindigul,Oddanchatram,Cotton,Alluvial,Tank,48433,Inner Yellow,10.5000,77.7500
+Tiruchirappalli,Manapparai,Banana,Black Soil,Canal,74928,Outer Yellow,10.6200,78.4200
+Salem,Attur,Vegetables,Alluvial,Canal,32845,Outer Yellow,11.6000,78.6000
+Nagapattinam,Mayiladuthurai,Coconut,Red Loam,Borewell,55844,Inner Yellow,11.1000,79.6500
+Theni,Bodinayakanur,Cotton,Alluvial,Canal,38812,Green,10.0200,77.3500
+Cuddalore,Panruti,Turmeric,Red Loam,Canal,41870,Inner Yellow,11.7800,79.5500
+Ramanathapuram,Kamuthi,Turmeric,Alluvial,Canal,58325,Outer Yellow,9.4000,78.3700
+Coimbatore,Mettupalayam,Groundnut,Black Soil,Borewell,71321,Outer Yellow,11.3000,76.9300
+Thanjavur,Pattukkottai,Vegetables,Alluvial,Canal,85829,Green,10.4200,79.3200
+Tirunelveli,Ambasamudram,Coconut,Black Soil,Tank,76210,Inner Yellow,8.7000,77.4700
+Nagapattinam,Vedaranyam,Sugarcane,Black Soil,Canal,18069,Green,10.3700,79.8500
+Tirunelveli,Cheranmahadevi,Coconut,Red Soil,Canal,21558,Outer Yellow,8.6800,77.5700
+Salem,Mettur,Maize,Black Soil,Borewell,28484,Green,11.8000,77.8000
+Cuddalore,Chidambaram,Turmeric,Red Soil,Canal,51959,Green,11.4000,79.7000
+Karur,Kulithalai,Turmeric,Red Loam,Borewell,78495,Green,10.9300,78.4200
+Thanjavur,Orathanadu,Millet,Alluvial,Tank,81273,Outer Yellow,10.6200,79.2700
+Namakkal,Kolli Hills,Millet,Black Soil,Canal,58270,Inner Yellow,11.2800,78.3300
+Namakkal,Senthamangalam,Millet,Red Soil,Borewell,15885,Outer Yellow,11.2500,78.1700
+Theni,Bodinayakanur,Sugarcane,Black Soil,Canal,41593,Inner Yellow,10.0200,77.3500
+Virudhunagar,Sattur,Millet,Alluvial,Canal,80110,Outer Yellow,9.3700,77.9200
+Namakkal,Paramathi Velur,Turmeric,Red Soil,Tank,77472,Green,11.2200,78.0200
+Namakkal,Paramathi Velur,Banana,Alluvial,Tank,25609,Green,11.2200,78.0200
+Coimbatore,Pollachi,Coconut,Red Loam,Tank,48575,Green,10.6700,77.0200
+Dindigul,Vedasandur,Millet,Black Soil,Tank,72387,Green,10.5300,77.9500
+Krishnagiri,Pochampalli,Banana,Black Soil,Tank,16131,Green,12.3500,78.3700
+Thanjavur,Orathanadu,Coconut,Alluvial,Canal,87971,Green,10.6200,79.2700
+Virudhunagar,Aruppukkottai,Sugarcane,Black Soil,Tank,41991,Outer Yellow,9.5200,78.1000
+Virudhunagar,Tiruchuli,Sugarcane,Black Soil,Borewell,69082,Inner Yellow,9.5300,78.2300
+Salem,Edappadi,Paddy,Red Loam,Canal,62378,Green,11.5700,77.8500
+Dindigul,Palani,Maize,Alluvial,Tank,77759,Green,10.4500,77.5200
+Karur,Kadavur,Coconut,Black Soil,Tank,66544,Outer Yellow,10.8300,78.2300
+Nagapattinam,Kilvelur,Turmeric,Alluvial,Borewell,75412,Green,10.7700,79.7500
+Salem,Edappadi,Groundnut,Red Soil,Tank,80021,Green,11.5700,77.8500
+Vellore,Arcot,Cotton,Alluvial,Borewell,49580,Green,12.9000,79.3200
+Vellore,Arcot,Banana,Black Soil,Tank,29759,Green,12.9000,79.3200
+Coimbatore,Pollachi,Groundnut,Red Loam,Borewell,86490,Outer Yellow,10.6700,77.0200
+Thanjavur,Peravurani,Vegetables,Alluvial,Tank,46913,Outer Yellow,10.3000,79.1800
+Villupuram,Tindivanam,Turmeric,Black Soil,Canal,53542,Inner Yellow,12.2500,79.6500
+Nagapattinam,Vedaranyam,Vegetables,Red Loam,Borewell,16836,Green,10.3700,79.8500
+Coimbatore,Sulur,Banana,Black Soil,Canal,34593,Green,11.0300,77.1300
+Madurai,Peraiyur,Groundnut,Red Soil,Canal,70996,Outer Yellow,9.7500,77.8000
+Coimbatore,Sulur,Millet,Alluvial,Canal,79149,Outer Yellow,11.0300,77.1300
+Karur,Thanthoni,Sugarcane,Red Loam,Tank,24488,Green,10.9500,78.0800
+Tiruchirappalli,Lalgudi,Turmeric,Black Soil,Tank,48046,Inner Yellow,10.8700,78.8200
+Vellore,Vaniyambadi,Sugarcane,Red Loam,Tank,77193,Green,12.6800,78.6200
+Vellore,Anaicut,Turmeric,Alluvial,Borewell,34870,Inner Yellow,12.9300,79.2500
+Tirunelveli,Nanguneri,Sugarcane,Red Loam,Canal,48480,Green,8.4800,77.6700
+Namakkal,Paramathi Velur,Vegetables,Black Soil,Borewell,32571,Outer Yellow,11.2200,78.0200
+Namakkal,Paramathi Velur,Vegetables,Alluvial,Borewell,15139,Green,11.2200,78.0200
+Madurai,Melur,Vegetables,Red Loam,Canal,33210,Green,10.0300,78.3300
+Karur,Kulithalai,Vegetables,Black Soil,Canal,82301,Outer Yellow,10.9300,78.4200
+Tiruchirappalli,Lalgudi,Millet,Alluvial,Borewell,38034,Inner Yellow,10.8700,78.8200
+Coimbatore,Pollachi,Millet,Black Soil,Borewell,38991,Green,10.6700,77.0200
+Villupuram,Sankarapuram,Maize,Black Soil,Tank,88035,Green,11.8300,78.9500
+Karur,Kulithalai,Turmeric,Alluvial,Canal,30484,Green,10.9300,78.4200
+Villupuram,Gingee,Coconut,Red Soil,Tank,86043,Green,12.2300,79.4200
+Thanjavur,Peravurani,Maize,Red Loam,Borewell,85801,Green,10.3000,79.1800
+Theni,Cumbum,Turmeric,Red Soil,Canal,19663,Green,9.7300,77.2800
+Erode,Gobichettipalayam,Groundnut,Red Soil,Canal,74798,Inner Yellow,11.4600,77.4500
+Theni,Bodinayakanur,Turmeric,Red Loam,Canal,89964,Green,10.0200,77.3500
+Chennai,Alandur,Urban,Urban,None,1715,Red,13.0100,80.2000
+Coimbatore,Pollachi,Cotton,Black Soil,Canal,55287,Inner Yellow,10.6700,77.0200
+Theni,Cumbum,Banana,Red Loam,Tank,23654,Green,9.7300,77.2800
+Cuddalore,Panruti,Coconut,Black Soil,Canal,75613,Green,11.7800,79.5500
+Tiruchirappalli,Manapparai,Paddy,Black Soil,Tank,75622,Outer Yellow,10.6200,78.4200
+Namakkal,Paramathi Velur,Maize,Black Soil,Canal,76892,Green,11.2200,78.0200
+Karur,Kulithalai,Cotton,Red Soil,Borewell,87679,Inner Yellow,10.9300,78.4200
+Tiruchirappalli,Musiri,Groundnut,Red Soil,Tank,52342,Green,10.9500,78.4500
+Virudhunagar,Rajapalayam,Cotton,Red Soil,Canal,37907,Outer Yellow,9.4200,77.5700
+Namakkal,Paramathi Velur,Vegetables,Red Soil,Canal,45913,Outer Yellow,11.2200,78.0200
+Tirunelveli,Ambasamudram,Millet,Red Loam,Tank,43235,Green,8.7000,77.4700
+Erode,Kodumudi,Sugarcane,Black Soil,Canal,62179,Outer Yellow,11.0800,77.8800
+Salem,Sankari,Banana,Red Loam,Tank,41444,Green,11.4800,77.8700
+Krishnagiri,Denkanikottai,Cotton,Alluvial,Canal,16800,Green,12.5300,77.7800
+Thanjavur,Peravurani,Turmeric,Black Soil,Tank,47367,Outer Yellow,10.3000,79.1800
+Dindigul,Nilakottai,Millet,Black Soil,Canal,29984,Green,10.1700,77.8500
+Tirunelveli,Sankarankovil,Sugarcane,Alluvial,Canal,89989,Green,9.1700,77.5300
+Namakkal,Paramathi Velur,Sugarcane,Red Soil,Borewell,55574,Green,11.2200,78.0200
+Krishnagiri,Uthangarai,Banana,Black Soil,Borewell,31743,Green,12.2700,78.5300
+Namakkal,Paramathi Velur,Paddy,Red Soil,Canal,77929,Outer Yellow,11.2200,78.0200
+Namakkal,Kolli Hills,Vegetables,Red Loam,Canal,27287,Inner Yellow,11.2800,78.3300
+Theni,Andipatti,Banana,Red Soil,Tank,42077,Green,9.9800,77.6200
+Namakkal,Paramathi Velur,Maize,Red Soil,Tank,25340,Outer Yellow,11.2200,78.0200
+Vellore,Arcot,Turmeric,Red Loam,Borewell,21625,Outer Yellow,12.9000,79.3200
+Salem,Edappadi,Cotton,Red Soil,Tank,82072,Inner Yellow,11.5700,77.8500
+Tirunelveli,Tenkasi,Vegetables,Alluvial,Tank,71150,Green,8.9700,77.3200
+Vellore,Gudiyatham,Maize,Black Soil,Borewell,32109,Green,12.9500,78.8700
+Virudhunagar,Tiruchuli,Cotton,Black Soil,Tank,16341,Green,9.5300,78.2300
+Madurai,Melur,Coconut,Red Loam,Borewell,22088,Green,10.0300,78.3300
+Krishnagiri,Bargur,Coconut,Black Soil,Borewell,58398,Green,12.4500,78.3700
+Coimbatore,Sulur,Maize,Red Soil,Borewell,85227,Green,11.0300,77.1300
+Vellore,Vaniyambadi,Groundnut,Alluvial,Tank,69564,Green,12.6800,78.6200
+Erode,Perundurai,Paddy,Black Soil,Borewell,78497,Green,11.2700,77.5800
+Sivaganga,Karaikudi,Maize,Red Soil,Canal,35718,Green,10.0800,78.7800
+Chennai,Perambur,Urban,Urban,None,1575,Red,13.1100,80.2500
+Erode,Sathyamangalam,Banana,Red Loam,Tank,78838,Green,11.5250,77.2383
+Virudhunagar,Rajapalayam,Millet,Black Soil,Borewell,78289,Green,9.4200,77.5700
+Erode,Gobichettipalayam,Vegetables,Black Soil,Borewell,17230,Green,11.4600,77.4500
+Tiruchirappalli,Lalgudi,Sugarcane,Black Soil,Canal,20094,Green,10.8700,78.8200
+Villupuram,Vikravandi,Vegetables,Black Soil,Borewell,21853,Green,11.9700,79.5300
+Tirunelveli,Tenkasi,Coconut,Black Soil,Borewell,71863,Inner Yellow,8.9700,77.3200
+Sivaganga,Devakottai,Millet,Red Loam,Tank,74931,Green,9.9500,78.8200
+Dindigul,Vedasandur,Millet,Alluvial,Tank,77938,Inner Yellow,10.5300,77.9500
+Madurai,Peraiyur,Banana,Black Soil,Borewell,79458,Outer Yellow,9.7500,77.8000
+Villupuram,Sankarapuram,Turmeric,Red Soil,Borewell,38538,Green,11.8300,78.9500
+Tirunelveli,Sankarankovil,Cotton,Red Loam,Canal,84561,Outer Yellow,9.1700,77.5300
+Karur,Kadavur,Turmeric,Red Loam,Canal,69914,Green,10.8300,78.2300
+Cuddalore,Chidambaram,Paddy,Red Soil,Borewell,38086,Green,11.4000,79.7000
+Theni,Periyakulam,Sugarcane,Black Soil,Tank,40851,Green,10.1200,77.5500
+Chennai,Perambur,Urban,Urban,None,1752,Red,13.1100,80.2500
+Villupuram,Kallakurichi,Coconut,Red Loam,Borewell,77366,Inner Yellow,11.7300,78.9700
+Sivaganga,Ilayangudi,Coconut,Alluvial,Canal,64304,Inner Yellow,9.6300,78.6300
+Karur,Aravakurichi,Cotton,Red Loam,Tank,37088,Green,10.8800,78.1300
+Salem,Omalur,Sugarcane,Alluvial,Canal,78445,Green,11.7300,78.0800
+Salem,Mettur,Groundnut,Red Soil,Borewell,63971,Green,11.8000,77.8000
+Tirunelveli,Nanguneri,Millet,Red Soil,Tank,43228,Outer Yellow,8.4800,77.6700
+Tirunelveli,Sankarankovil,Millet,Red Loam,Tank,51469,Green,9.1700,77.5300
+Madurai,Usilampatti,Vegetables,Red Soil,Borewell,66322,Green,9.9700,77.8000
+Erode,Kodumudi,Maize,Red Loam,Tank,50532,Inner Yellow,11.0800,77.8800
+Namakkal,Tiruchengode,Banana,Red Loam,Tank,26598,Green,11.3800,77.9000
+Madurai,Vadipatti,Banana,Red Soil,Tank,76588,Green,10.0800,78.4800
+Cuddalore,Chidambaram,Sugarcane,Red Soil,Canal,57948,Green,11.4000,79.7000
+Coimbatore,Mettupalayam,Banana,Black Soil,Tank,79548,Green,11.3000,76.9300
+Coimbatore,Kinathukadavu,Millet,Alluvial,Tank,81354,Green,10.8200,76.9500
+Madurai,Tirumangalam,Millet,Red Soil,Canal,77965,Green,9.8200,78.0300
+Villupuram,Sankarapuram,Groundnut,Black Soil,Borewell,82105,Green,11.8300,78.9500
+Thanjavur,Papanasam,Turmeric,Red Soil,Tank,28415,Green,10.9300,79.2700
+Ramanathapuram,Kamuthi,Vegetables,Alluvial,Canal,46212,Inner Yellow,9.4000,78.3700
+Virudhunagar,Aruppukkottai,Banana,Red Soil,Canal,49197,Green,9.5200,78.1000
+Namakkal,Paramathi Velur,Vegetables,Red Soil,Canal,43195,Inner Yellow,11.2200,78.0200
+Nagapattinam,Kilvelur,Sugarcane,Black Soil,Canal,79320,Inner Yellow,10.7700,79.7500
+Chennai,Perambur,Urban,Urban,None,558,Red,13.1100,80.2500
+Salem,Mettur,Groundnut,Red Loam,Tank,46199,Green,11.8000,77.8000
+Theni,Andipatti,Maize,Red Soil,Borewell,75836,Green,9.9800,77.6200
+Nagapattinam,Nagore,Cotton,Alluvial,Borewell,27958,Green,10.8200,79.8500
+Krishnagiri,Pochampalli,Coconut,Red Loam,Tank,62722,Outer Yellow,12.3500,78.3700
+Erode,Sathyamangalam,Turmeric,Black Soil,Borewell,67176,Green,11.5250,77.2383
+Nagapattinam,Nagore,Banana,Black Soil,Tank,88473,Green,10.8200,79.8500
+Madurai,Peraiyur,Maize,Alluvial,Tank,29562,Outer Yellow,9.7500,77.8000
+Karur,Thanthoni,Banana,Black Soil,Tank,19838,Green,10.9500,78.0800
+Namakkal,Senthamangalam,Paddy,Alluvial,Borewell,18969,Outer Yellow,11.2500,78.1700
+Virudhunagar,Aruppukkottai,Maize,Red Soil,Tank,28642,Green,9.5200,78.1000
+Nagapattinam,Mayiladuthurai,Vegetables,Black Soil,Borewell,72809,Outer Yellow,11.1000,79.6500
+Karur,Krishnarayapuram,Sugarcane,Red Soil,Canal,79460,Green,10.8800,78.1800
+Krishnagiri,Pochampalli,Coconut,Red Soil,Canal,45064,Green,12.3500,78.3700
+Thanjavur,Pattukkottai,Vegetables,Black Soil,Borewell,75771,Green,10.4200,79.3200
+Vellore,Gudiyatham,Coconut,Alluvial,Canal,49373,Green,12.9500,78.8700
+Madurai,Peraiyur,Vegetables,Black Soil,Canal,55618,Green,9.7500,77.8000
+Theni,Uthamapalayam,Vegetables,Black Soil,Borewell,89662,Green,9.8000,77.3300
+Thanjavur,Kumbakonam,Coconut,Alluvial,Borewell,49935,Green,10.9700,79.3800
+Cuddalore,Panruti,Banana,Red Loam,Tank,48176,Green,11.7800,79.5500
+Nagapattinam,Vedaranyam,Turmeric,Red Loam,Canal,33850,Inner Yellow,10.3700,79.8500
+Krishnagiri,Hosur,Groundnut,Red Soil,Borewell,18450,Green,12.7200,77.8200
+Erode,Perundurai,Coconut,Black Soil,Borewell,56161,Green,11.2700,77.5800
+Ramanathapuram,Rameswaram,Maize,Red Loam,Canal,33324,Outer Yellow,9.2800,79.3000
+Tirunelveli,Ambasamudram,Paddy,Red Soil,Tank,21825,Green,8.7000,77.4700
+Thanjavur,Kumbakonam,Paddy,Black Soil,Canal,70253,Green,10.9700,79.3800
+Coimbatore,Sulur,Millet,Red Soil,Borewell,45263,Green,11.0300,77.1300
+Nagapattinam,Vedaranyam,Millet,Alluvial,Tank,69256,Outer Yellow,10.3700,79.8500
+Villupuram,Kallakurichi,Turmeric,Red Loam,Borewell,33255,Green,11.7300,78.9700
+Virudhunagar,Tiruchuli,Maize,Red Soil,Canal,87054,Inner Yellow,9.5300,78.2300
+Chennai,Tondiarpet,Urban,Urban,None,1877,Red,13.1200,80.2800
+Villupuram,Sankarapuram,Cotton,Alluvial,Tank,79346,Green,11.8300,78.9500
+Tirunelveli,Nanguneri,Groundnut,Red Loam,Tank,77379,Green,8.4800,77.6700
+Ramanathapuram,Mudukulathur,Millet,Black Soil,Tank,55393,Green,9.3700,78.5200
+Tiruchirappalli,Manapparai,Maize,Alluvial,Tank,30499,Green,10.6200,78.4200
+Thanjavur,Papanasam,Groundnut,Red Loam,Tank,42096,Outer Yellow,10.9300,79.2700
+Karur,Aravakurichi,Banana,Black Soil,Tank,21871,Green,10.8800,78.1300
+Tirunelveli,Ambasamudram,Sugarcane,Alluvial,Tank,20571,Inner Yellow,8.7000,77.4700
+Tiruchirappalli,Manapparai,Paddy,Alluvial,Canal,51013,Outer Yellow,10.6200,78.4200
+Namakkal,Senthamangalam,Sugarcane,Red Soil,Borewell,24398,Outer Yellow,11.2500,78.1700
+Villupuram,Kallakurichi,Paddy,Red Soil,Canal,68948,Green,11.7300,78.9700
+Thanjavur,Kumbakonam,Coconut,Alluvial,Tank,29096,Green,10.9700,79.3800
+Namakkal,Senthamangalam,Turmeric,Red Loam,Tank,84951,Inner Yellow,11.2500,78.1700
+Nagapattinam,Vedaranyam,Maize,Black Soil,Borewell,29869,Outer Yellow,10.3700,79.8500
+Madurai,Tirumangalam,Groundnut,Red Loam,Canal,25492,Green,9.8200,78.0300
+Dindigul,Vedasandur,Cotton,Alluvial,Tank,56034,Green,10.5300,77.9500
+Chennai,Perambur,Urban,Urban,None,1730,Red,13.1100,80.2500
+Virudhunagar,Sattur,Paddy,Red Loam,Canal,40921,Green,9.3700,77.9200
+Karur,Krishnarayapuram,Banana,Alluvial,Canal,87607,Green,10.8800,78.1800
+Erode,Bhavani,Groundnut,Black Soil,Canal,87755,Inner Yellow,11.4500,77.6800
+Tirunelveli,Ambasamudram,Sugarcane,Alluvial,Borewell,45813,Green,8.7000,77.4700
+Villupuram,Tindivanam,Turmeric,Red Soil,Tank,73419,Green,12.2500,79.6500
+Sivaganga,Manamadurai,Millet,Red Soil,Borewell,67366,Green,9.6800,78.4800
+Virudhunagar,Sivakasi,Groundnut,Black Soil,Borewell,68716,Green,9.4500,77.8000
+Karur,Krishnarayapuram,Groundnut,Red Soil,Canal,21415,Inner Yellow,10.8800,78.1800
+Theni,Cumbum,Banana,Alluvial,Canal,51576,Green,9.7300,77.2800
+Tiruchirappalli,Srirangam,Vegetables,Black Soil,Canal,84634,Outer Yellow,10.8700,78.7000
+Thanjavur,Papanasam,Millet,Red Loam,Canal,72647,Green,10.9300,79.2700
+Ramanathapuram,Paramakudi,Paddy,Red Soil,Canal,63918,Green,9.5500,78.5800
+Ramanathapuram,Kadaladi,Paddy,Black Soil,Canal,52298,Outer Yellow,9.2800,78.5200
+Erode,Gobichettipalayam,Paddy,Red Loam,Tank,85512,Green,11.4600,77.4500
+Karur,Kulithalai,Vegetables,Red Soil,Tank,31740,Green,10.9300,78.4200
+Madurai,Peraiyur,Coconut,Red Loam,Canal,48031,Outer Yellow,9.7500,77.8000
+Villupuram,Sankarapuram,Coconut,Red Soil,Canal,89473,Outer Yellow,11.8300,78.9500
+Vellore,Arcot,Cotton,Alluvial,Borewell,28165,Outer Yellow,12.9000,79.3200
+Ramanathapuram,Kamuthi,Paddy,Black Soil,Tank,32656,Green,9.4000,78.3700
+Tirunelveli,Sankarankovil,Cotton,Red Soil,Canal,47635,Green,9.1700,77.5300
+Vellore,Anaicut,Sugarcane,Black Soil,Canal,75800,Green,12.9300,79.2500
+Thanjavur,Peravurani,Cotton,Black Soil,Canal,31538,Inner Yellow,10.3000,79.1800
+Vellore,Gudiyatham,Millet,Red Soil,Canal,51395,Green,12.9500,78.8700
+Karur,Kulithalai,Turmeric,Red Soil,Canal,31732,Green,10.9300,78.4200
+Cuddalore,Kattumannarkoil,Banana,Alluvial,Canal,83879,Green,11.3300,79.7300
+Erode,Perundurai,Millet,Red Soil,Borewell,18399,Outer Yellow,11.2700,77.5800
+Namakkal,Paramathi Velur,Maize,Black Soil,Tank,28853,Green,11.2200,78.0200
+Cuddalore,Panruti,Paddy,Red Loam,Borewell,22217,Green,11.7800,79.5500
+Villupuram,Vikravandi,Paddy,Alluvial,Borewell,32869,Green,11.9700,79.5300
+Chennai,Ambattur,Urban,Urban,None,1056,Red,13.1200,80.1600
+Theni,Bodinayakanur,Coconut,Alluvial,Tank,21772,Outer Yellow,10.0200,77.3500
+Karur,Kulithalai,Banana,Red Loam,Tank,72045,Green,10.9300,78.4200
+Krishnagiri,Bargur,Sugarcane,Red Loam,Canal,80591,Green,12.4500,78.3700
+Karur,Thanthoni,Banana,Black Soil,Borewell,67515,Green,10.9500,78.0800
+Namakkal,Kolli Hills,Sugarcane,Red Loam,Tank,32685,Green,11.2800,78.3300
+Cuddalore,Chidambaram,Maize,Red Loam,Tank,86941,Green,11.4000,79.7000
+Ramanathapuram,Mudukulathur,Banana,Alluvial,Canal,84143,Green,9.3700,78.5200
+Madurai,Peraiyur,Paddy,Alluvial,Canal,88304,Green,9.7500,77.8000
+Krishnagiri,Bargur,Cotton,Red Loam,Tank,38155,Green,12.4500,78.3700
+Coimbatore,Sulur,Vegetables,Red Soil,Canal,81481,Green,11.0300,77.1300
+Namakkal,Kolli Hills,Vegetables,Black Soil,Borewell,41938,Green,11.2800,78.3300
+Villupuram,Gingee,Millet,Alluvial,Canal,37161,Outer Yellow,12.2300,79.4200
+Ramanathapuram,Paramakudi,Paddy,Red Loam,Canal,75522,Inner Yellow,9.5500,78.5800
+Sivaganga,Manamadurai,Maize,Black Soil,Canal,63255,Outer Yellow,9.6800,78.4800
+Karur,Thanthoni,Cotton,Red Soil,Borewell,19898,Inner Yellow,10.9500,78.0800
+Vellore,Vaniyambadi,Coconut,Red Soil,Borewell,22494,Green,12.6800,78.6200
+Thanjavur,Peravurani,Millet,Red Soil,Tank,81420,Inner Yellow,10.3000,79.1800
+Coimbatore,Annur,Banana,Red Loam,Borewell,39015,Inner Yellow,11.2300,77.1300
+Virudhunagar,Rajapalayam,Vegetables,Red Soil,Tank,17616,Outer Yellow,9.4200,77.5700
+Dindigul,Oddanchatram,Cotton,Red Loam,Borewell,82158,Green,10.5000,77.7500
+Thanjavur,Papanasam,Cotton,Red Soil,Borewell,22264,Green,10.9300,79.2700
+Sivaganga,Tirupathur,Groundnut,Red Loam,Borewell,49811,Outer Yellow,9.8200,78.7000
+Vellore,Arcot,Coconut,Alluvial,Canal,43582,Green,12.9000,79.3200
+Karur,Kadavur,Vegetables,Alluvial,Canal,58931,Green,10.8300,78.2300
+Villupuram,Tindivanam,Paddy,Red Soil,Canal,19523,Green,12.2500,79.6500
+Namakkal,Tiruchengode,Millet,Red Soil,Borewell,30236,Inner Yellow,11.3800,77.9000
+Madurai,Usilampatti,Vegetables,Red Soil,Tank,15976,Outer Yellow,9.9700,77.8000
+Chennai,Perambur,Urban,Urban,None,511,Red,13.1100,80.2500
+Virudhunagar,Aruppukkottai,Groundnut,Black Soil,Tank,59612,Green,9.5200,78.1000
+Nagapattinam,Kilvelur,Banana,Alluvial,Canal,89585,Outer Yellow,10.7700,79.7500
+Salem,Edappadi,Millet,Red Soil,Canal,33144,Green,11.5700,77.8500
+Sivaganga,Devakottai,Turmeric,Alluvial,Borewell,81183,Green,9.9500,78.8200
+Chennai,Perambur,Urban,Urban,None,552,Red,13.1100,80.2500
+Tiruchirappalli,Lalgudi,Banana,Red Soil,Canal,44237,Inner Yellow,10.8700,78.8200
+Tirunelveli,Ambasamudram,Sugarcane,Black Soil,Borewell,71056,Green,8.7000,77.4700
+Namakkal,Kolli Hills,Millet,Red Soil,Borewell,43565,Green,11.2800,78.3300
+Vellore,Vaniyambadi,Maize,Alluvial,Borewell,69042,Green,12.6800,78.6200
+Erode,Kodumudi,Cotton,Black Soil,Tank,32079,Green,11.0800,77.8800
+Karur,Kadavur,Cotton,Black Soil,Canal,35395,Inner Yellow,10.8300,78.2300
+Coimbatore,Mettupalayam,Vegetables,Red Soil,Tank,55724,Green,11.3000,76.9300
+Erode,Perundurai,Millet,Alluvial,Borewell,35739,Outer Yellow,11.2700,77.5800
+Namakkal,Rasipuram,Cotton,Red Soil,Canal,86779,Inner Yellow,11.4500,78.5000
+Villupuram,Tindivanam,Turmeric,Alluvial,Borewell,36580,Green,12.2500,79.6500
+Thanjavur,Peravurani,Banana,Red Loam,Tank,70460,Green,10.3000,79.1800
+Dindigul,Oddanchatram,Sugarcane,Alluvial,Borewell,63641,Green,10.5000,77.7500
+Virudhunagar,Rajapalayam,Groundnut,Red Soil,Borewell,37381,Outer Yellow,9.4200,77.5700
+Villupuram,Sankarapuram,Millet,Black Soil,Canal,85790,Inner Yellow,11.8300,78.9500
+Karur,Kadavur,Turmeric,Red Loam,Borewell,19909,Green,10.8300,78.2300
+Vellore,Gudiyatham,Turmeric,Red Loam,Canal,30372,Green,12.9500,78.8700
+Krishnagiri,Bargur,Groundnut,Alluvial,Tank,36103,Green,12.4500,78.3700
+Salem,Attur,Turmeric,Alluvial,Canal,55041,Outer Yellow,11.6000,78.6000
+Theni,Andipatti,Banana,Red Loam,Tank,75333,Green,9.9800,77.6200
+Virudhunagar,Rajapalayam,Sugarcane,Black Soil,Tank,64512,Green,9.4200,77.5700
+Vellore,Vaniyambadi,Cotton,Red Loam,Borewell,70273,Green,12.6800,78.6200
+Coimbatore,Mettupalayam,Maize,Red Soil,Canal,81721,Inner Yellow,11.3000,76.9300
+Coimbatore,Pollachi,Turmeric,Black Soil,Borewell,25376,Green,10.6700,77.0200
+Dindigul,Nilakottai,Sugarcane,Red Soil,Tank,56105,Outer Yellow,10.1700,77.8500
+Sivaganga,Ilayangudi,Vegetables,Black Soil,Tank,53121,Outer Yellow,9.6300,78.6300
+Dindigul,Nilakottai,Millet,Red Soil,Tank,48407,Green,10.1700,77.8500
+Thanjavur,Papanasam,Vegetables,Red Soil,Canal,72835,Green,10.9300,79.2700
+Chennai,Sholinganallur,Urban,Urban,None,1633,Red,12.9000,80.2200
+Theni,Bodinayakanur,Coconut,Red Soil,Borewell,33285,Green,10.0200,77.3500
+Coimbatore,Kinathukadavu,Millet,Red Soil,Canal,40529,Outer Yellow,10.8200,76.9500
+Villupuram,Tindivanam,Cotton,Black Soil,Borewell,26062,Green,12.2500,79.6500
+Karur,Kulithalai,Groundnut,Red Loam,Borewell,73473,Outer Yellow,10.9300,78.4200
+Sivaganga,Manamadurai,Vegetables,Alluvial,Tank,44430,Inner Yellow,9.6800,78.4800
+Salem,Omalur,Paddy,Red Soil,Borewell,52134,Green,11.7300,78.0800
+Krishnagiri,Bargur,Vegetables,Red Loam,Tank,86924,Outer Yellow,12.4500,78.3700
+Vellore,Vaniyambadi,Maize,Alluvial,Canal,38132,Green,12.6800,78.6200
+Chennai,Perambur,Urban,Urban,None,778,Red,13.1100,80.2500
+Madurai,Melur,Groundnut,Alluvial,Canal,47724,Inner Yellow,10.0300,78.3300
+Nagapattinam,Mayiladuthurai,Banana,Red Soil,Canal,86198,Green,11.1000,79.6500
+Chennai,Perambur,Urban,Urban,None,1687,Red,13.1100,80.2500
+Coimbatore,Mettupalayam,Millet,Black Soil,Canal,23870,Green,11.3000,76.9300
+Thanjavur,Peravurani,Millet,Alluvial,Tank,83132,Inner Yellow,10.3000,79.1800
+Ramanathapuram,Kadaladi,Millet,Red Loam,Tank,88709,Green,9.2800,78.5200
+Ramanathapuram,Paramakudi,Groundnut,Red Loam,Borewell,61382,Green,9.5500,78.5800
+Thanjavur,Orathanadu,Maize,Black Soil,Tank,44664,Green,10.6200,79.2700
+Villupuram,Sankarapuram,Millet,Alluvial,Borewell,53686,Green,11.8300,78.9500
+Thanjavur,Peravurani,Maize,Red Loam,Tank,70790,Green,10.3000,79.1800
+Vellore,Anaicut,Millet,Alluvial,Borewell,59368,Green,12.9300,79.2500
+Namakkal,Kolli Hills,Turmeric,Black Soil,Borewell,59174,Green,11.2800,78.3300
+Erode,Kodumudi,Banana,Alluvial,Tank,39240,Green,11.0800,77.8800
+Tiruchirappalli,Srirangam,Vegetables,Red Loam,Tank,43520,Inner Yellow,10.8700,78.7000
+Thanjavur,Orathanadu,Paddy,Red Loam,Canal,43195,Green,10.6200,79.2700
+Villupuram,Sankarapuram,Vegetables,Black Soil,Tank,60263,Green,11.8300,78.9500
+Namakkal,Senthamangalam,Sugarcane,Red Soil,Tank,25300,Outer Yellow,11.2500,78.1700
+Erode,Perundurai,Maize,Red Soil,Tank,43207,Green,11.2700,77.5800
+Tirunelveli,Ambasamudram,Maize,Red Loam,Tank,57595,Outer Yellow,8.7000,77.4700
+Tiruchirappalli,Lalgudi,Sugarcane,Black Soil,Canal,84943,Outer Yellow,10.8700,78.8200
+Dindigul,Palani,Coconut,Alluvial,Borewell,89041,Outer Yellow,10.4500,77.5200
+Ramanathapuram,Rameswaram,Banana,Black Soil,Tank,49847,Green,9.2800,79.3000
+Tirunelveli,Cheranmahadevi,Banana,Black Soil,Canal,85212,Green,8.6800,77.5700
+Tirunelveli,Sankarankovil,Paddy,Red Loam,Canal,65245,Inner Yellow,9.1700,77.5300
+Salem,Edappadi,Coconut,Red Loam,Tank,39191,Inner Yellow,11.5700,77.8500
+Dindigul,Palani,Groundnut,Red Loam,Tank,21487,Green,10.4500,77.5200
+Salem,Mettur,Maize,Black Soil,Tank,53168,Green,11.8000,77.8000
+Tiruchirappalli,Srirangam,Banana,Red Loam,Tank,68681,Green,10.8700,78.7000
+Cuddalore,Neyveli,Turmeric,Alluvial,Canal,68615,Inner Yellow,11.6100,79.4800
+Thanjavur,Kumbakonam,Vegetables,Alluvial,Canal,57154,Green,10.9700,79.3800
+Coimbatore,Pollachi,Vegetables,Black Soil,Borewell,18994,Inner Yellow,10.6700,77.0200
+Theni,Andipatti,Millet,Black Soil,Borewell,22495,Green,9.9800,77.6200
+Coimbatore,Mettupalayam,Cotton,Black Soil,Tank,80738,Outer Yellow,11.3000,76.9300
+Krishnagiri,Hosur,Coconut,Black Soil,Tank,66633,Green,12.7200,77.8200
+Thanjavur,Orathanadu,Coconut,Red Loam,Canal,19203,Green,10.6200,79.2700
+Krishnagiri,Denkanikottai,Cotton,Alluvial,Borewell,62357,Green,12.5300,77.7800
+Tirunelveli,Sankarankovil,Banana,Red Loam,Borewell,35918,Green,9.1700,77.5300
+Salem,Omalur,Cotton,Red Loam,Borewell,62857,Inner Yellow,11.7300,78.0800
+Tirunelveli,Cheranmahadevi,Groundnut,Black Soil,Canal,64843,Green,8.6800,77.5700
+Nagapattinam,Kilvelur,Millet,Alluvial,Tank,76579,Inner Yellow,10.7700,79.7500
+Madurai,Usilampatti,Paddy,Red Loam,Tank,82068,Green,9.9700,77.8000
+Tirunelveli,Ambasamudram,Coconut,Alluvial,Tank,77070,Green,8.7000,77.4700
+Virudhunagar,Aruppukkottai,Millet,Black Soil,Borewell,78703,Outer Yellow,9.5200,78.1000
+Namakkal,Kolli Hills,Vegetables,Red Loam,Canal,57366,Inner Yellow,11.2800,78.3300
+Namakkal,Rasipuram,Groundnut,Red Loam,Canal,70907,Green,11.4500,78.5000
+Krishnagiri,Hosur,Maize,Alluvial,Borewell,65786,Green,12.7200,77.8200
+Villupuram,Gingee,Millet,Red Soil,Borewell,29156,Green,12.2300,79.4200
+Theni,Bodinayakanur,Maize,Red Soil,Borewell,44862,Green,10.0200,77.3500
+Tiruchirappalli,Thuraiyur,Coconut,Red Loam,Borewell,31343,Green,11.1500,78.6000
+Karur,Kulithalai,Turmeric,Red Soil,Tank,29860,Green,10.9300,78.4200
+Thanjavur,Pattukkottai,Cotton,Red Loam,Tank,29357,Outer Yellow,10.4200,79.3200
+Cuddalore,Chidambaram,Cotton,Red Loam,Borewell,84913,Green,11.4000,79.7000
+Ramanathapuram,Paramakudi,Groundnut,Red Soil,Borewell,47065,Green,9.5500,78.5800
+Krishnagiri,Hosur,Paddy,Alluvial,Canal,59031,Inner Yellow,12.7200,77.8200
+Tirunelveli,Cheranmahadevi,Vegetables,Alluvial,Tank,81148,Inner Yellow,8.6800,77.5700
+Thanjavur,Kumbakonam,Turmeric,Red Soil,Canal,33385,Green,10.9700,79.3800
+Cuddalore,Chidambaram,Vegetables,Alluvial,Tank,49200,Inner Yellow,11.4000,79.7000
+Namakkal,Paramathi Velur,Paddy,Alluvial,Tank,48442,Green,11.2200,78.0200
+Nagapattinam,Vedaranyam,Groundnut,Red Soil,Borewell,84392,Green,10.3700,79.8500
+Coimbatore,Sulur,Banana,Alluvial,Canal,16235,Outer Yellow,11.0300,77.1300
+Cuddalore,Kattumannarkoil,Turmeric,Black Soil,Canal,70924,Inner Yellow,11.3300,79.7300
+Theni,Bodinayakanur,Banana,Black Soil,Tank,79427,Outer Yellow,10.0200,77.3500
+Coimbatore,Sulur,Millet,Red Soil,Tank,50999,Outer Yellow,11.0300,77.1300
+Madurai,Usilampatti,Groundnut,Alluvial,Borewell,45802,Green,9.9700,77.8000
+Villupuram,Vikravandi,Millet,Black Soil,Canal,68979,Outer Yellow,11.9700,79.5300
+Tiruchirappalli,Lalgudi,Paddy,Black Soil,Canal,48696,Outer Yellow,10.8700,78.8200
+Tirunelveli,Nanguneri,Coconut,Red Soil,Canal,34000,Outer Yellow,8.4800,77.6700
+Tiruchirappalli,Musiri,Maize,Alluvial,Tank,43481,Green,10.9500,78.4500
+Dindigul,Oddanchatram,Sugarcane,Red Loam,Borewell,34005,Green,10.5000,77.7500
+Vellore,Anaicut,Turmeric,Alluvial,Canal,23447,Green,12.9300,79.2500
+Virudhunagar,Sivakasi,Groundnut,Alluvial,Borewell,80118,Outer Yellow,9.4500,77.8000
+Dindigul,Nilakottai,Vegetables,Red Loam,Canal,41402,Inner Yellow,10.1700,77.8500
+Madurai,Melur,Groundnut,Red Loam,Borewell,37505,Green,10.0300,78.3300
+Virudhunagar,Sattur,Paddy,Alluvial,Canal,23143,Green,9.3700,77.9200
+Namakkal,Kolli Hills,Paddy,Alluvial,Canal,79642,Outer Yellow,11.2800,78.3300
+Namakkal,Kolli Hills,Vegetables,Alluvial,Canal,15757,Green,11.2800,78.3300
+Dindigul,Nilakottai,Groundnut,Red Soil,Canal,23648,Green,10.1700,77.8500
+Tirunelveli,Nanguneri,Maize,Red Soil,Tank,45314,Green,8.4800,77.6700
+Sivaganga,Manamadurai,Millet,Red Soil,Borewell,35407,Green,9.6800,78.4800
+Cuddalore,Kattumannarkoil,Paddy,Red Loam,Borewell,35874,Inner Yellow,11.3300,79.7300
+Namakkal,Senthamangalam,Paddy,Black Soil,Borewell,62199,Green,11.2500,78.1700
+Chennai,Sholinganallur,Urban,Urban,None,1253,Red,12.9000,80.2200
+Karur,Krishnarayapuram,Paddy,Alluvial,Tank,81515,Green,10.8800,78.1800
+Salem,Sankari,Coconut,Black Soil,Borewell,62720,Green,11.4800,77.8700
+Chennai,Sholinganallur,Urban,Urban,None,953,Red,12.9000,80.2200
+Karur,Thanthoni,Banana,Black Soil,Borewell,36908,Green,10.9500,78.0800
+Cuddalore,Kattumannarkoil,Banana,Alluvial,Tank,35674,Inner Yellow,11.3300,79.7300
+Erode,Bhavani,Vegetables,Red Loam,Borewell,30110,Inner Yellow,11.4500,77.6800
+Vellore,Katpadi,Groundnut,Black Soil,Tank,21825,Outer Yellow,12.9700,79.1300
+Namakkal,Senthamangalam,Groundnut,Red Soil,Borewell,33990,Green,11.2500,78.1700
+Tirunelveli,Ambasamudram,Banana,Red Loam,Tank,54281,Green,8.7000,77.4700
+Tirunelveli,Sankarankovil,Turmeric,Black Soil,Tank,64864,Outer Yellow,9.1700,77.5300
+Coimbatore,Annur,Groundnut,Black Soil,Borewell,81886,Green,11.2300,77.1300
+Vellore,Arcot,Millet,Red Soil,Canal,29364,Inner Yellow,12.9000,79.3200
+Tirunelveli,Cheranmahadevi,Sugarcane,Red Soil,Borewell,43379,Green,8.6800,77.5700
+Namakkal,Rasipuram,Paddy,Alluvial,Canal,40243,Inner Yellow,11.4500,78.5000
+Theni,Cumbum,Vegetables,Alluvial,Borewell,76703,Outer Yellow,9.7300,77.2800
+Chennai,Sholinganallur,Urban,Urban,None,777,Red,12.9000,80.2200
+Karur,Kadavur,Sugarcane,Black Soil,Tank,54250,Green,10.8300,78.2300
+Erode,Sathyamangalam,Vegetables,Black Soil,Canal,31776,Outer Yellow,11.5250,77.2383
+Dindigul,Natham,Maize,Red Loam,Borewell,20877,Outer Yellow,10.2300,78.1200
+Virudhunagar,Tiruchuli,Millet,Red Loam,Canal,41903,Green,9.5300,78.2300
+Tiruchirappalli,Musiri,Paddy,Red Soil,Borewell,70807,Green,10.9500,78.4500
+Sivaganga,Karaikudi,Turmeric,Black Soil,Tank,22307,Green,10.0800,78.7800
+Coimbatore,Kinathukadavu,Sugarcane,Red Soil,Borewell,88400,Outer Yellow,10.8200,76.9500
+Erode,Sathyamangalam,Paddy,Alluvial,Borewell,77656,Green,11.5250,77.2383
+Tiruchirappalli,Srirangam,Coconut,Alluvial,Tank,23408,Inner Yellow,10.8700,78.7000
+Sivaganga,Karaikudi,Groundnut,Red Loam,Tank,72270,Outer Yellow,10.0800,78.7800
+Nagapattinam,Vedaranyam,Turmeric,Alluvial,Canal,62790,Outer Yellow,10.3700,79.8500
+Cuddalore,Chidambaram,Banana,Red Loam,Canal,61822,Green,11.4000,79.7000
+Nagapattinam,Mayiladuthurai,Coconut,Red Soil,Tank,15430,Inner Yellow,11.1000,79.6500
+Sivaganga,Karaikudi,Groundnut,Black Soil,Canal,65136,Green,10.0800,78.7800
+Thanjavur,Orathanadu,Paddy,Black Soil,Canal,76666,Green,10.6200,79.2700
+Tirunelveli,Ambasamudram,Cotton,Red Loam,Canal,19792,Green,8.7000,77.4700
+Namakkal,Kolli Hills,Groundnut,Red Soil,Canal,28427,Inner Yellow,11.2800,78.3300
+Krishnagiri,Hosur,Groundnut,Alluvial,Borewell,28903,Green,12.7200,77.8200
+Tiruchirappalli,Manapparai,Maize,Red Loam,Borewell,49596,Inner Yellow,10.6200,78.4200
+Erode,Kodumudi,Coconut,Red Soil,Canal,87038,Outer Yellow,11.0800,77.8800
+Salem,Attur,Cotton,Black Soil,Tank,67088,Green,11.6000,78.6000
+Vellore,Anaicut,Vegetables,Red Loam,Borewell,54265,Green,12.9300,79.2500
+Nagapattinam,Nagore,Paddy,Red Loam,Canal,39893,Outer Yellow,10.8200,79.8500
+Theni,Uthamapalayam,Groundnut,Red Soil,Tank,82594,Green,9.8000,77.3300
+Tirunelveli,Ambasamudram,Cotton,Black Soil,Canal,25505,Inner Yellow,8.7000,77.4700
+Vellore,Vaniyambadi,Vegetables,Black Soil,Canal,58526,Outer Yellow,12.6800,78.6200
+Sivaganga,Devakottai,Coconut,Alluvial,Borewell,62497,Green,9.9500,78.8200
+Krishnagiri,Denkanikottai,Paddy,Red Soil,Canal,34205,Green,12.5300,77.7800
+Salem,Omalur,Paddy,Red Soil,Tank,78882,Green,11.7300,78.0800
+Madurai,Melur,Cotton,Red Loam,Canal,41399,Green,10.0300,78.3300
+Krishnagiri,Denkanikottai,Maize,Red Loam,Tank,42350,Green,12.5300,77.7800
+Karur,Thanthoni,Paddy,Black Soil,Borewell,62595,Green,10.9500,78.0800
+Salem,Mettur,Coconut,Black Soil,Tank,46255,Green,11.8000,77.8000
+Nagapattinam,Kilvelur,Vegetables,Red Loam,Tank,79074,Green,10.7700,79.7500
+Krishnagiri,Bargur,Banana,Alluvial,Tank,83118,Inner Yellow,12.4500,78.3700
+Thanjavur,Peravurani,Paddy,Black Soil,Borewell,80460,Green,10.3000,79.1800
+Chennai,Ambattur,Urban,Urban,None,1655,Red,13.1200,80.1600
+Nagapattinam,Nagore,Sugarcane,Black Soil,Canal,19080,Green,10.8200,79.8500
+Karur,Kulithalai,Banana,Red Soil,Canal,54769,Green,10.9300,78.4200
+Nagapattinam,Sirkazhi,Groundnut,Alluvial,Borewell,49572,Inner Yellow,11.2300,79.7300
+Tiruchirappalli,Manapparai,Banana,Alluvial,Borewell,43225,Green,10.6200,78.4200
+Namakkal,Senthamangalam,Sugarcane,Alluvial,Tank,25960,Outer Yellow,11.2500,78.1700
+Krishnagiri,Pochampalli,Groundnut,Alluvial,Borewell,74054,Green,12.3500,78.3700
+Salem,Mettur,Banana,Red Loam,Canal,34237,Green,11.8000,77.8000
+Ramanathapuram,Kamuthi,Groundnut,Alluvial,Canal,77221,Outer Yellow,9.4000,78.3700
+Theni,Andipatti,Coconut,Black Soil,Canal,25739,Green,9.9800,77.6200
+Nagapattinam,Kilvelur,Banana,Red Loam,Canal,19119,Inner Yellow,10.7700,79.7500
+Namakkal,Kolli Hills,Sugarcane,Alluvial,Tank,61822,Green,11.2800,78.3300
+Sivaganga,Devakottai,Millet,Black Soil,Canal,50552,Outer Yellow,9.9500,78.8200
+Chennai,Ambattur,Urban,Urban,None,965,Red,13.1200,80.1600
+Madurai,Tirumangalam,Millet,Black Soil,Canal,44418,Green,9.8200,78.0300
+Erode,Gobichettipalayam,Coconut,Alluvial,Borewell,58408,Green,11.4600,77.4500
+Virudhunagar,Tiruchuli,Paddy,Red Loam,Tank,86758,Green,9.5300,78.2300
+Madurai,Peraiyur,Maize,Red Loam,Tank,21130,Green,9.7500,77.8000
+Coimbatore,Annur,Paddy,Red Soil,Tank,51390,Green,11.2300,77.1300
+Karur,Aravakurichi,Turmeric,Alluvial,Borewell,64944,Inner Yellow,10.8800,78.1300
+Vellore,Arcot,Millet,Red Soil,Canal,83115,Green,12.9000,79.3200
+Tiruchirappalli,Lalgudi,Millet,Red Soil,Canal,77322,Green,10.8700,78.8200
+Tiruchirappalli,Manapparai,Cotton,Red Loam,Canal,62873,Outer Yellow,10.6200,78.4200
+Dindigul,Nilakottai,Sugarcane,Alluvial,Borewell,30366,Green,10.1700,77.8500
+Cuddalore,Virudhachalam,Banana,Black Soil,Borewell,71439,Outer Yellow,11.5300,79.4700
+Thanjavur,Kumbakonam,Vegetables,Red Loam,Borewell,88990,Green,10.9700,79.3800
+Tirunelveli,Sankarankovil,Maize,Black Soil,Canal,74929,Green,9.1700,77.5300
+Namakkal,Rasipuram,Millet,Alluvial,Tank,88335,Green,11.4500,78.5000
+Tirunelveli,Sankarankovil,Banana,Red Soil,Canal,89740,Green,9.1700,77.5300
+Namakkal,Tiruchengode,Cotton,Alluvial,Tank,33998,Outer Yellow,11.3800,77.9000
+Nagapattinam,Sirkazhi,Groundnut,Red Loam,Borewell,45455,Inner Yellow,11.2300,79.7300
+Thanjavur,Orathanadu,Turmeric,Alluvial,Tank,68703,Green,10.6200,79.2700
+Krishnagiri,Pochampalli,Maize,Alluvial,Tank,65216,Green,12.3500,78.3700
+Madurai,Tirumangalam,Maize,Red Soil,Canal,40724,Outer Yellow,9.8200,78.0300
+Vellore,Gudiyatham,Maize,Red Loam,Tank,41134,Inner Yellow,12.9500,78.8700
+Salem,Edappadi,Cotton,Alluvial,Borewell,62966,Inner Yellow,11.5700,77.8500
+Tirunelveli,Cheranmahadevi,Millet,Red Loam,Borewell,89514,Green,8.6800,77.5700
+Salem,Edappadi,Turmeric,Black Soil,Borewell,43650,Outer Yellow,11.5700,77.8500
+Krishnagiri,Bargur,Maize,Red Loam,Borewell,73316,Outer Yellow,12.4500,78.3700
