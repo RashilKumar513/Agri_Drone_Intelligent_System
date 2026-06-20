@@ -57,24 +57,16 @@ The **AgriDrone Intelligence Platform** is an intelligent system designed to:
 
 ### Setup Instructions
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/RashilKumar513/Agri_Drone_Intelligent_System.git
-cd Agri_Drone_Intelligent_System
-```
-
-2. **Install dependencies**
+1. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Run the application**
+2. **Run the application**
 ```bash
 streamlit run app.py
 ```
 
-4. **Open in browser**
-   - The application will automatically open at `http://localhost:8501`
 
 ## 📊 Dataset
 
@@ -163,50 +155,5 @@ The system generates recommendations based on the drone readiness score:
 - **Data Analytics**: Analyze agricultural patterns and drone capabilities across regions
 - **Government Planning**: Support policy decisions on agricultural drone usage
 
-## 📈 Future Enhancements
 
-- Real-time weather integration for optimal drone operations
-- Historical trend analysis for crop yields
-- Machine learning-based yield predictions
-- Integration with drone fleet management systems
-- Multi-state coverage expansion
-- Drone path optimization algorithms
-- Integration with agricultural IoT sensors
 
-## ⚠️ Regulatory Disclaimer
-
-This system is designed to assist in drone operation planning. Users must comply with:
-- DGCA (Directorate General of Civil Aviation) regulations
-- Local airport authority guidelines
-- State and local drone operation laws
-- Environmental regulations
-
-Always obtain necessary approvals before conducting drone operations.
-
-## 👤 Author
-
-**Rashil Kumar**
-- GitHub: [@RashilKumar513](https://github.com/RashilKumar513)
-
-## 📞 Support & Contact
-
-For issues, suggestions, or contributions:
-- Open an issue on the GitHub repository
-- Check existing documentation
-- Review the code comments for implementation details
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-- Report bugs and issues
-- Suggest new features
-- Submit pull requests with improvements
-- Improve documentation
-
----
-
-**Made with ❤️ for Smart Agriculture & Precision Farming**
